@@ -1,0 +1,17 @@
+[
+ {
+ "placeholder":"Enter operation to perform. (Example: start) (Type help to know more about all the operations)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "input"
+ },
+ {
+ "placeholder":"Execute",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Execute the operation"
+ }
+]
